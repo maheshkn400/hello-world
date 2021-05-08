@@ -1,3 +1,3 @@
 # maven-project
 
-Simple Maven Project
+Simple DevOps Project 1 of Jenkins, Maven, Tomcat8
