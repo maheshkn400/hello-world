@@ -1,4 +1,6 @@
-<h1> Welcome To DevOps Simple Project 1 </h1>
-<p>In this project includes 2 ec2 instance</p>
-<p>jenkins and maven in one ec2 instance and tomcat8 in another one ec2 instance</p>
-<p>Success deploy of war file via ansible server with publish over ssh jenkin plugin</p>
+<h1> Welcome To DevOps</h1>
+<h3>Sample Poject 1 Completed</h3>
+<p>In this project it includes jenkins, maven and tomcat8</p>
+<br />
+<h3>Sample Project 2 Completed</h3>
+<p>In this project it includes jenkins, maven, ansible and tomcat8</p>
