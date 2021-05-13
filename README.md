@@ -12,6 +12,7 @@ Simple DevOps Project 1 Includes Jenkins, Maven, Tomcat8 <br />
 </ul>
 <hr />
 Simple DevOps Project 2 Includes Jenkins, Maven, Ansible and Tomcat8 <br />
+<img src="./img/devops-2.jpg" />
 <b>Requirements</b>
 <ul>
   <li>jenkins</li>
